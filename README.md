@@ -1,0 +1,2 @@
+# MetaAnalysis_FamilyFarming_Regenerative_Systems_SoilCarbon_Brazil
+Preliminary meta-analysis of soil organic carbon under regenerative agricultural systems in Brazilian family farming
